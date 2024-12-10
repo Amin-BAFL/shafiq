@@ -1,0 +1,45 @@
+.div{
+    background-color: aqua;
+    text-align: center;
+
+}
+.Main{
+    background-color: aqua;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: grey;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgb(222, 238, 179);
+    
+}
+
+    .all1{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-color: rgb(233, 248, 95);
+    }
+    .all2{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-color: rgb(233, 248, 95);
+    }
+    ul{
+        list-style-type: none;
+    }
